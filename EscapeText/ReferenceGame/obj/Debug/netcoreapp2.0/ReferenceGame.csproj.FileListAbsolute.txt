@@ -1,0 +1,11 @@
+C:\Users\drewb\Source\Repos\Glistening Echidnas\EscapeText\ReferenceGame\obj\Debug\netcoreapp2.0\ReferenceGame.csproj.CoreCompileInputs.cache
+C:\Users\drewb\Source\Repos\Glistening Echidnas\EscapeText\ReferenceGame\obj\Debug\netcoreapp2.0\ReferenceGame.AssemblyInfoInputs.cache
+C:\Users\drewb\Source\Repos\Glistening Echidnas\EscapeText\ReferenceGame\obj\Debug\netcoreapp2.0\ReferenceGame.AssemblyInfo.cs
+C:\Users\drewb\Source\Repos\Glistening Echidnas\EscapeText\ReferenceGame\bin\Debug\netcoreapp2.0\ReferenceGame.deps.json
+C:\Users\drewb\Source\Repos\Glistening Echidnas\EscapeText\ReferenceGame\bin\Debug\netcoreapp2.0\ReferenceGame.runtimeconfig.json
+C:\Users\drewb\Source\Repos\Glistening Echidnas\EscapeText\ReferenceGame\bin\Debug\netcoreapp2.0\ReferenceGame.runtimeconfig.dev.json
+C:\Users\drewb\Source\Repos\Glistening Echidnas\EscapeText\ReferenceGame\bin\Debug\netcoreapp2.0\ReferenceGame.dll
+C:\Users\drewb\Source\Repos\Glistening Echidnas\EscapeText\ReferenceGame\bin\Debug\netcoreapp2.0\ReferenceGame.pdb
+C:\Users\drewb\Source\Repos\Glistening Echidnas\EscapeText\ReferenceGame\obj\Debug\netcoreapp2.0\ReferenceGame.dll
+C:\Users\drewb\Source\Repos\Glistening Echidnas\EscapeText\ReferenceGame\obj\Debug\netcoreapp2.0\ReferenceGame.pdb
+C:\Users\drewb\source\repos\Glistening Echidnas\EscapeText\ReferenceGame\obj\Debug\netcoreapp2.0\ReferenceGame.csprojAssemblyReference.cache
